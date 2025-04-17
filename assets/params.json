@@ -1,0 +1,9 @@
+{
+    "text": "Составь слова из слогов",
+    "public_description": "Составь слова из слогов",
+    "instance": {
+        "easy": true,
+        "count": 6
+    },
+    "max_score": 100
+}
